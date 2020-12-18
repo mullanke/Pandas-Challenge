@@ -1,6 +1,6 @@
 # Pandas-Challenge
 
-As a Lead Analyst position for an independent gaming company, I was assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+As a Lead Analyst for an independent gaming company, I was assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company asked me to generate a report that breaks down the game's purchasing data into meaningful insights.
 Below is that was pulled in the final report:
 
