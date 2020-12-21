@@ -2,6 +2,22 @@
 
 As a Lead Analyst for an independent gaming company, I was assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company asked me to generate a report that breaks down the game's purchasing data into meaningful insights.
+
+-----------------------
+
+Three main conclusions were drawn from the data that was collected:
+
+The most profitable gender in this data came from the male players. Males made up 84.03% of all Total Purchases and we made $1,967.64 dollars in total revenue.     
+
+
+Our most profitable age range of players was 20 to 24. This age range makess up roughly 45% of our total audience and they provided us $1,114.06 dollars in revenue. 
+
+
+Our top two items were the Final Critic and Oathbreaker, Last Hope of the Breaking Storm. Both items were purchased at a total of 25 times and made us $110.75 dollars in revenue.
+
+------------------------------------------------
+
+
 Below is that was pulled in the final report:
 
 Player Count
